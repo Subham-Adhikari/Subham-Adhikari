@@ -6,17 +6,17 @@ Welcome to my GitHub! I'm a passionate and curious data analyst just starting my
 
 - 🎓 Recent graduate in [Your Degree] from [Your University]
 - 🧠 Strong foundation in statistics, data cleaning, and exploratory analysis
-- 💻 Learning Python, SQL, Excel, and Tableau
+- 💻 Learning Excel , SQL , Power-BI , Python
 - 📈 Interested in business intelligence, data visualization, and predictive analytics
 
 ## 🛠️ Skills
 
 | Tool/Language | Proficiency |
 |---------------|-------------|
-| Python        | Learning    |
-| SQL           | Intermediate|
 | Excel         | Intermediate|
+| SQL           | Intermediate|
 | Power BI      | Learning    |
+| Python        | Learning    |
 
 ## 📁 Projects
 
