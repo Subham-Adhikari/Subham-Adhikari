@@ -4,16 +4,10 @@
 
 ---
 
-## 🧭 About Me  
+## 🧭 About Me
 
-Hi! I'm Subham. I graduated in **Microbiology (Hons.)** in 2021 and have been exploring different paths to find my purpose.  
-
-- I spent nearly **7,000 hours** practicing **BGMI (online mobile game)**, trying to build a **career in esports** (2022–2023).  
-- Then, I explored **frontend development** for 7 months (2024).  
-- I also prepared for **government exams** (Nov 2024 – June 2025).  
-- During this time, I gradually started exploring **data analytics** through free resources on YouTube, and over time, it became an interest I wanted to pursue seriously.  
-
-Currently, I’m strengthening my skills in **Excel**, **MS SQL**, and **Power BI**, while learning **Python** to enhance my ability to work with data effectively.
+Hi! I'm **Subham.** A Microbiology graduate (2021) who discovered a strong interest in **data analytics** through continuous **exploration and learning**.
+I’m currently enhancing my proficiency in **Excel, MS SQL, Power BI** to analyze data and drive better decisions.
 
 ---
 
@@ -34,7 +28,7 @@ Currently, I’m strengthening my skills in **Excel**, **MS SQL**, and **Power B
 | Excel      | 4.0 ⭐      | Data cleaning, formulas, pivot tables |
 | MS SQL     | 4.0 ⭐      | Queries, joins, filtering        |
 | Power BI   | 3.0 ⭐      | Dashboards, DAX, data modeling    |
-| Python     | 2.0 ⭐      | Basics of pandas and matplotlib   |
+| Python     | 2.0 ⭐      | Basics      |
 
 ---
 
@@ -55,6 +49,11 @@ Analyzing data feels like solving a mystery — every pattern tells a story if y
 
 ## 💬 My Journey  
 
+- I spent nearly **7,000 hours** practicing **BGMI (online mobile game)**, trying to build a **career in esports** (2022–2023).  
+- Then, I explored **frontend development** for 7 months (2024).  
+- I also prepared for **government exams** (Nov 2024 – June 2025).  
+- During this time, I gradually started exploring **data analytics** through free resources on YouTube, and over time, it became an interest I wanted to pursue seriously.
+  
 I don’t come from a tech background, but my curiosity about **data-driven insights** keeps me motivated.  
 Every setback has taught me patience and perseverance. I believe that **consistency beats speed**, and I apply this mindset to my learning every day.
 
