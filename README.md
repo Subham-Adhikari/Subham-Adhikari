@@ -8,7 +8,7 @@ Aspiring **Data Analyst** driven to explore data, identify patterns, and deliver
 
 Hi! I'm Subham. I graduated in **Microbiology (Hons.)** in 2021 and have been exploring different paths to find my purpose.  
 
-- Spent **nearly 7000 hours in esports** (2022–2023)  
+- Spent nearly **7,000 hours** practicing **BGMI (online mobile game)** to build a **career in esports** (2022–2023)  
 - Explored **frontend development** for 7 months (2024)  
 - Prepared for **government exams** (Nov 2024 – June 2025)
 - While gradually exploring data analytics through free resources on YouTube, and over time, it grew into a interest I wanted to pursue seriously .
