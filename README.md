@@ -1,42 +1,79 @@
-# 👋 Hi, I'm Subham Adhikari — Aspiring Data Analyst
+# 👋 Hi there, I'm [Your Name]  
 
-Welcome to my GitHub! I'm a passionate and curious data analyst just starting my journey in the world of data. I love turning raw information into meaningful insights and visual stories that drive smarter decisions.
+Aspiring **Data Analyst** | SQL • Excel • Power BI • Python  
 
-## 📊 About Me
+---
 
-- 🎓 graduate in [Microbiology] from [Kalyani University]
-- 🧠 Strong foundation in statistics, data cleaning, and exploratory analysis
-- 💻 Learning Excel , SQL , Power-BI , Python
-- 📈 Interested in business intelligence, data visualization, and predictive analytics
+## 🚀 About Me  
 
-## 🛠️ Skills
+Hi, I'm [Your Name], an aspiring Data Analyst from India with a background in Microbiology.  
+I love transforming raw data into meaningful insights and visual stories. I’m currently focused on building projects to strengthen my skills in **SQL, Excel, Power BI**, and **Python**.  
 
-| Tool/Language | Proficiency |
-|---------------|-------------|
-| Excel         | Intermediate|
-| SQL           | Intermediate|
-| Power BI      | Learning    |
-| Python        | Learning    |
+🎯 **Career Goal:** To become a proficient data analyst capable of solving real-world business problems using data.  
 
-## 📁 Projects
+---
 
-Here are a few beginner-friendly projects I've worked on:
+## 🧠 Technical Skills  
 
-- **Sales Dashboard**: Built an interactive dashboard using Excel to track monthly sales trends.
-- **Customer Churn Analysis**: Used Python and pandas to explore factors influencing customer retention.
-- **COVID-19 Data Visualization**: Created visualizations in Tableau to show global case trends.
+- **Data Handling:** Excel (Formulas, Power Query, Pivot Tables), Data Cleaning, Formatting  
+- **Database Tools:** MS SQL Server, Joins, Subqueries, Window Functions  
+- **Visualization:** Power BI (DAX, Reports, Dashboards)  
+- **Programming:** Python (Pandas, Data Manipulation Basics)  
+- **Statistics & Analytics:** Data aggregation, Exploratory analysis, KPI metrics  
 
-## 📚 Currently Learning
+---
 
-- Data wrangling with pandas
-- Writing efficient SQL queries
-- Building dashboards with Power BI
-- Storytelling with data
+## 📂 Featured Projects  
 
-## 📬 Let's Connect
+| Project | Tools Used | Description |
+|----------|-------------|-------------|
+| **Sales Data Dashboard** | SQL, Power BI, Excel | Analyzed sales data using SQL and built interactive dashboards in Power BI to identify top-performing regions. |
+| **Customer Insights Report** | Excel, Power BI | Cleaned and visualized survey data to uncover customer satisfaction trends. |
+| **Python Mini Tasks** | Python | Small data-related scripts for filtering, sorting, and basic analysis practice. |
 
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🌐 Portfolio: [Your Portfolio Website]
+👉 Check individual repository folders for documentation, scripts, and visualizations.  
 
-Thanks for stopping by! I'm excited to grow, collaborate, and contribute to the data community 🚀
+---
+
+## 🗺 Learning Roadmap  
+
+- Deepen **SQL** analysis with advanced queries and functions  
+- Build **Power BI** dashboards connected to real datasets  
+- Strengthen **Python** for automation and EDA (Exploratory Data Analysis)  
+- Experiment with open-source **datasets** to simulate business use-cases  
+
+---
+
+## 📫 Connect with Me  
+
+- **Email:** [yourname@email.com]  
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- **Portfolio (if available):** [yourportfolio.com](https://yourportfolio.com)  
+
+---
+
+## ⚡ Fun Fact  
+I love finding patterns in data — and coffee helps me do it ☕.  
+
+---
+
+## 🛠️ Tools I Use  
+
+![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 📈 GitHub Stats  
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 📝 License  
+
+This repository and its resources are for learning and personal development.  
+You're welcome to explore, adapt, and learn from the projects.
