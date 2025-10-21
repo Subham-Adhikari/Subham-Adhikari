@@ -15,7 +15,7 @@ I’m currently enhancing my proficiency in **Excel, MS SQL, Power BI** to analy
 
 | Project Title                 | Tools Used             | Status      |
 |-------------------------------|----------------------|------------|
-| E-commerce Sales EDA           | MS-SQL                  | Ongoing  |
+| E-commerce Sales EDA           | MS-SQL                  | About to start  |
 | Upcoming Project 1             | Excel, SQL, Power BI | Planned    |
 | Upcoming Project 2             | Excel, SQL, Power BI | Planned    |
 
