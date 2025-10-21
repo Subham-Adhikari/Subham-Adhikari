@@ -28,12 +28,12 @@ Aspiring **Data Analyst** with a background in science and a growing passion for
 
 ## 🛠️ Tools & Technologies
 
-| Tool       | Proficiency Level | Use Case                          |
-|------------|-----------------|-----------------------------------|
-| Excel      | Intermediate     | Data cleaning, formulas, pivot tables |
-| MS SQL     | Intermediate     | Queries, joins, filtering        |
-| Power BI   | Beginner         | Dashboards, DAX, data modeling    |
-| Python     | Beginner         | Basics of pandas and matplotlib   |
+| Tool       | Proficiency | Use Case                          |
+|------------|------------|-----------------------------------|
+| Excel      | 4.0 ⭐      | Data cleaning, formulas, pivot tables |
+| MS SQL     | 4.0 ⭐      | Queries, joins, filtering        |
+| Power BI   | 3.0 ⭐      | Dashboards, DAX, data modeling    |
+| Python     | 2.0 ⭐      | Basics of pandas and matplotlib   |
 
 ---
 
