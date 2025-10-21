@@ -62,8 +62,8 @@ Every setback has taught me patience and perseverance. I believe that **consiste
 
 ## 🌐 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile) *(Add your profile link)*  
-- 📬 Email: [subham.dataist@gmail.com](mailto:subham.dataist@gmail.com) *(Replace with your actual email)*
+- 💼 [LinkedIn](https://x.com/dbo_Subham) *(Add your profile link)*  
+- 📬 Email: [subham.dataist@gmail.com](mailto:subham.dataist@gmail.com)
 
 ---
 
