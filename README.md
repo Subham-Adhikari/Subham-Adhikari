@@ -1,42 +1,55 @@
-# 👋 Hey there, welcome to my GitHub!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi, I'm Subham Adhikari
 
-I'm **[Your Name]**, an aspiring **Data Analyst** on a journey to turn raw data into meaningful insights. Thanks for stopping by! 👀
-
----
-
-## 🧠 Skills & Tools
-
-| 💻 Tool        | ⚡ Proficiency | 🔍 Use Case                          |
-|----------------|----------------|--------------------------------------|
-| Excel          | ⭐⭐⭐⭐           | Data cleaning, formulas, dashboards  |
-| MS SQL         | ⭐⭐⭐            | Querying, joins, data manipulation   |
-| Power BI       | ⭐⭐⭐            | Interactive reports, DAX, modeling   |
-| Python (Basics)| ⭐              | Learning pandas, matplotlib, automation |
+Aspiring **Data Analyst** with a background in science and a growing passion for data-driven storytelling. Currently focused on building strong foundations in Excel, SQL, Power BI, and Python.
 
 ---
 
-## 🚀 Currently Exploring
+## 🎯 About Me
 
-- 🐍 Python for data analysis
-- 📊 Building Power BI dashboards
-- 🧪 Practicing SQL with real datasets
-- 📁 Creating portfolio projects
+- 🎓 Graduated in **Microbiology (Hons)** in 2021
+- 🔁 Transitioned into the data field with a self-driven learning approach
+- 📚 Currently learning:
+  - **Excel** for data cleaning and analysis
+  - **SQL** for querying and managing databases
+  - **Power BI** for interactive dashboards
+  - **Python** (basic) for automation and data manipulation
 
 ---
 
-## 📌 Projects (Coming Soon)
+## 🚀 Projects
 
-- **📈 Sales Dashboard** – Regional performance in Power BI
-- **🧠 Customer Segmentation** – SQL-based clustering
-- **📊 Excel KPI Tracker** – Automated insights with conditional formatting
+| Project Title                 | Tools Used             | Status      |
+|-------------------------------|----------------------|------------|
+| E-commerce Sales EDA           | MS-SQL                  | Ongoing  |
+| Upcoming Project 1             | Excel, SQL, Power BI | Planned    |
+| Upcoming Project 2             | Excel, SQL, Power BI | Planned    |
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Tool       | Proficiency Level | Use Case                          |
+|------------|-----------------|-----------------------------------|
+| Excel      | Intermediate     | Data cleaning, formulas, pivot tables |
+| MS SQL     | Intermediate     | Queries, joins, filtering        |
+| Power BI   | Beginner         | Dashboards, DAX, data modeling    |
+| Python     | Beginner         | Basics of pandas and matplotlib   |
+
+---
+
+## 📌 What's Next
+
+- Publishing and showcasing my projects on GitHub
+- Building a growing portfolio of practical, beginner-friendly data projects
+- Learning Python for deeper analysis and automation
+- Connecting with mentors and the data community
 
 ---
 
 ## 🌐 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🌍 [Portfolio](https://yourwebsite.com)
-- 📬 Email: your.email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile) *(Add your profile link)*  
+- 📬 Email: [subhamadhikari@example.com](mailto:subhamadhikari@example.com) *(Replace with your actual email)*
 
 ---
 
