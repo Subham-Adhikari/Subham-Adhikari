@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a passionate and curious data analyst just starting my
 
 ## 📊 About Me
 
-- 🎓 Recent graduate in [Your Degree] from [Your University]
+- 🎓 graduate in [Microbiology] from [Kalyani University]
 - 🧠 Strong foundation in statistics, data cleaning, and exploratory analysis
 - 💻 Learning Excel , SQL , Power-BI , Python
 - 📈 Interested in business intelligence, data visualization, and predictive analytics
