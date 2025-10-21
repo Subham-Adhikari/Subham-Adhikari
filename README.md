@@ -1,18 +1,19 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi, I'm Subham Adhikari
 
-Aspiring **Data Analyst** with a background in science and a growing passion for data-driven storytelling. Currently focused on building strong foundations in Excel, SQL, Power BI, and Python.
+Aspiring **Data Analyst** driven to explore data, identify patterns, and deliver actionable insights through analysis.
 
 ---
 
-## 🎯 About Me
+## 🧭 About Me  
 
-- 🎓 Graduated in **Microbiology (Hons)** in 2021
-- 🔁 Transitioned into the data field with a self-driven learning approach
-- 📚 Currently learning:
-  - **Excel** for data cleaning and analysis
-  - **SQL** for querying and managing databases
-  - **Power BI** for interactive dashboards
-  - **Python** (basic) for automation and data manipulation
+Hi! I'm Subham. I graduated in **Microbiology (Hons.)** in 2021 and have been exploring different paths to find my purpose.  
+
+- Spent **nearly 7000 hours in esports** (2022–2023)  
+- Explored **frontend development** for 7 months (2024)  
+- Prepared for **government exams** (Nov 2024 – June 2025)
+- While gradually exploring data analytics through free resources on YouTube, and over time, it grew into a interest I wanted to pursue seriously .
+
+Currently, I’m strengthening my skills in **Excel**, **MS SQL**, and **Power BI**, while learning **Python** to enhance my ability to work with data effectively.
 
 ---
 
@@ -39,17 +40,30 @@ Aspiring **Data Analyst** with a background in science and a growing passion for
 
 ## 📌 What's Next
 
-- Publishing and showcasing my projects on GitHub
-- Building a growing portfolio of practical, beginner-friendly data projects
-- Learning Python for deeper analysis and automation
-- Connecting with mentors and the data community
+- Publish and showcase my projects on GitHub  
+- Build a portfolio of beginner-friendly, practical data projects  
+- Deepen my Python knowledge for data analysis and automation  
+- Connect with mentors and the data community  
+
+---
+
+## ⚡ Fun Fact  
+
+Analyzing data feels like solving a mystery — every pattern tells a story if you take the time to look closely.  
+
+---
+
+## 💬 My Journey  
+
+I don’t come from a tech background, but my curiosity about **data-driven insights** keeps me motivated.  
+Every setback has taught me patience and perseverance. I believe that **consistency beats speed**, and I apply this mindset to my learning every day.
 
 ---
 
 ## 🌐 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile) *(Add your profile link)*  
-- 📬 Email: [subhamadhikari@example.com](mailto:subi@example.com) *(Replace with your actual email)*
+- 📬 Email: [subhamadhikari@example.com](mailto:subhamadhikari@example.com) *(Replace with your actual email)*
 
 ---
 
