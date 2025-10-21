@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi, I'm Subham Adhikari
 
-Aspiring **Data Analyst** driven to explore data, identify patterns, and deliver actionable insights through analysis.
+📊 Aspiring **Data Analyst** | Passionate about **uncovering insights** and solving **business problems** through data 📝
 
 ---
 
