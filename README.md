@@ -16,7 +16,7 @@ I’m currently enhancing my proficiency in **Excel, MS SQL, Power BI** to analy
 | Project Title                 | Tools Used             | Status      |
 |-------------------------------|----------------------|------------|
 | bike-sales-and-supply-chain-analysis          | MS-SQL                  | Work in progress  |
-| Upcoming Project 1             | Excel, SQL, Power BI | Planned    |
+| online-book-store-analysis             | MS-SQL | Work in progress    |
 | Upcoming Project 2             | Excel, SQL, Power BI | Planned    |
 
 ---
