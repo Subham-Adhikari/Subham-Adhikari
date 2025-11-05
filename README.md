@@ -26,9 +26,9 @@ I’m currently enhancing my proficiency in **Excel, MS SQL, Power BI** to analy
 | Tool       | Proficiency | Use Case                          |
 |------------|------------|-----------------------------------|
 | Excel      | 4.0 ⭐      | Data cleaning, formulas, pivot tables |
-| MS SQL     | 4.0 ⭐      | Queries, joins, filtering        |
+| MS SQL     | 3.9 ⭐      | Queries, joins, filtering        |
 | Power BI   | 3.0 ⭐      | Dashboards, DAX, data modeling    |
-| Python     | 2.0 ⭐      | Basics      |
+| Python     | 3.0 ⭐      | Basics      |
 
 ---
 
