@@ -52,7 +52,7 @@ Analyzing data feels like solving a mystery — every pattern tells a story if y
 - I spent nearly **7,000 hours** practicing **BGMI (online mobile game)**, trying to build a **career in esports** (2022–2023).  
 - Then, I explored **frontend development** for 7 months (2024).  
 - I also prepared for **government exams** (Nov 2024 – June 2025).  
-- During this time, I gradually started exploring **data analytics** through free resources on YouTube, and over time, it became an interest I wanted to pursue seriously.
+- During this time, I gradually started exploring **data analytics** through **free resources on YouTube**, and over time, it became an interest **I wanted to pursue seriously.**
   
 I don’t come from a tech background, but my curiosity about **data-driven insights** keeps me motivated.  
 Every setback has taught me patience and perseverance. I believe that **consistency beats speed**, and I apply this mindset to my learning every day.
