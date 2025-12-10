@@ -17,7 +17,7 @@ I’m currently enhancing my proficiency in **Excel, MS SQL, Power BI** to analy
 |-------------------------------|----------------------|------------|
 | bike-sales-and-supply-chain-analysis          | MS-SQL                  | Almost done  |
 | UK-road-accident-analysis             | MS-EXCEL | Almost done    |
-| steel-sales-performance-dashboard             | MS-PowerBI | Planned    |
+| steel-sales-performance-dashboard             | MS-PowerBI | Almost done    |
 
 ---
 
