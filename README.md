@@ -11,6 +11,13 @@ I’m currently enhancing my proficiency in **Excel, MS SQL, Power BI** to analy
 
 ---
 
+
+## 📄 Resume
+
+You can view or download my resume here: [Subham Adhikari Resume (PDF)](https://drive.google.com/file/d/1btrX6L9XWtrWFxxpLoUbiKJxNptAeIOf/view?usp=sharing)
+
+---
+
 ## 🚀 Projects
 
 | Project Title                 | Tools Used             | Status      |
