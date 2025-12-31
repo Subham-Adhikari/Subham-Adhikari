@@ -22,7 +22,7 @@ You can view or download my resume here: [Subham Adhikari Resume (PDF)](https://
 
 | Project Title                 | Tools Used             | Status      |
 |-------------------------------|----------------------|------------|
-| bike-sales-and-supply-chain-analysis          | MS-SQL                  | Almost done  |
+| bike-sales-and-supply-chain-analysis          | MS-SQL                  | Done  |
 | UK-road-accident-analysis             | MS-EXCEL | Done    |
 | steel-sales-performance-dashboard             | MS-PowerBI | Done    |
 
