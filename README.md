@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi, I'm Subham Adhikari
 
-📊 Aspiring **Data Analyst** | Passionate about **uncovering insights** and solving **business problems** through data 📝
+**Data Analyst** 📊 | Passionate about **uncovering insights** and solving **business problems** through data 📝| SQL, Excel, and Power BI 💻 
 
 ---
 
