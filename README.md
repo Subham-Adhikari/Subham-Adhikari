@@ -50,7 +50,7 @@ You can view or download my resume here: [Subham Adhikari Resume (PDF)](https://
 
 ## ⚡ Fun Fact  
 
-Analyzing data feels like solving a mystery — every pattern tells a story if you take the time to look closely.  
+Instead of finding a relationship with someone special, I’m now finding relationships between tables. 
 
 ---
 
