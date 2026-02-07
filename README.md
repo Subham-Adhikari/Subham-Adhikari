@@ -23,7 +23,7 @@ You can view or download my resume here: [Subham Adhikari Resume (PDF)](https://
 | Tool       | Proficiency | Use Case                          |
 |------------|------------|-----------------------------------|
 | Excel      | 4.0 ⭐      | Data cleaning, formulas, pivot tables |
-| MS SQL     | 3.9 ⭐      | Queries, joins, filtering        |
+| MS SQL     | 4.0 ⭐      | Queries, joins, filtering        |
 | Power BI   | 3.7 ⭐      | Dashboards, DAX, data modeling    |
 | Python     | 3.0 ⭐      | Basics      |
 
