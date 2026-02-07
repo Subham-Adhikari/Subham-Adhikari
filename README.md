@@ -29,15 +29,6 @@ You can view or download my resume here: [Subham Adhikari Resume (PDF)](https://
 
 ---
 
-## 📌 What's Next
-
-- Publish and showcase my projects on GitHub  
-- Build a portfolio of beginner-friendly, practical data projects  
-- Deepen my Python knowledge for data analysis and automation  
-- Connect with mentors and the data community  
-
----
-
 ## ⚡ Fun Fact  
 
 Instead of finding a relationship with someone special, I’m now finding relationships between tables. 
