@@ -18,10 +18,6 @@
 
 
 
-<div align="center">
-  <h3>🎯 Precision-Driven Data Storytelling</h3>
-</div>
-
 > I am a **Data Analyst** who bridges the gap between scientific inquiry and business logic. 
 > With a background in **Microbiology**, I’ve traded the microscope for **SQL, Power BI, and Python**, applying lab-grade rigor to data cleaning, trend analysis, and product reporting. I don't just find numbers; I find the **"Why"** behind them to drive actionable decisions.
 
