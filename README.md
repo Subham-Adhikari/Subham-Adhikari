@@ -75,3 +75,70 @@ Instead of finding a relationship with someone special, I’m now finding relati
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subham-adhikari&show_icons=true&locale=en" alt="subham-adhikari" /></p>
 
+
+--
+
+
+--
+
+<div align="center">
+  <h1>Hi, I'm Subham Adhikari 👋</h1>
+  <p align="center">
+    <strong>Data Analyst | Turning Complex Data into Actionable Insights</strong><br />
+    Focused on how data supports real-world business decisions.
+  </p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+</div>
+
+---
+
+### 📖 About Me
+
+I am a **Data Analyst** focused on the logic behind business decisions. After transitioning from a **Microbiology** background, I apply the same scientific precision to datasets that I once applied to the lab.
+
+I specialize in taking messy datasets and turning them into clean, visual dashboards using **SQL, Power BI, and Python**. My interest lies in understanding the "why" behind the numbers—how users behave, where processes break, and what the data is actually telling us.
+
+- 🔭 **Currently working on:** Building end-to-end analytics projects and business intelligence dashboards.
+- 🌱 **Currently learning:** Python for Data Engineering and the shift toward AI-driven insights.
+- 🤝 **Looking to collaborate on:** Open-source data projects or real-world business datasets.
+- 💬 **Ask me about:** SQL logic, data cleaning strategies, and my transition into the data world.
+- ⚡ **Fun fact:** I spent years analyzing life through a microscope; now I apply that same precision to data.
+
+---
+
+### 🛠️ Technical Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Subham's GitHub Stats" />
+</div>
+
+---
+
+<div align="center">
+  <em>"Building a path toward Data & AI Engineering—one precision-driven project at a time."</em>
+</div>
+
+
+
+
+
