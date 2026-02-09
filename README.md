@@ -37,8 +37,7 @@ Instead of finding a relationship with someone special, I’m now finding relati
 
 ## 🌐 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/subhamad/)  
-- 📬 Email: [subhamadhikari348@gmail.com](mailto:subhamadhikari348@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/subhamad/)
 
 ---
 
