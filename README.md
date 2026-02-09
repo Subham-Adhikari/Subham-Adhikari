@@ -1,8 +1,7 @@
 <div align="center">
   <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I'm Subham Adhikari</h1>
 
-  <p><strong>Data Analyst | SQL • Power BI • Python | Aspiring AI Engineer</strong></p>
-  <p><em>Turning messy datasets into actionable business logic with scientific precision.</em></p>
+  <p><strong>Data Analyst | Precision-Driven Analytics | Data & AI Engineering Enthusiast</strong></p>
 
   <p align="center">
     <a href="https://linkedin.com/in/subhamad">
