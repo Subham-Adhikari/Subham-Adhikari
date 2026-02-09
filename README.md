@@ -148,9 +148,8 @@ I specialize in taking messy datasets and turning them into clean, visual dashbo
   <h1>Subham Adhikari</h1>
   <p><strong>Data Analyst | SQL • Power BI • Python | Aspiring AI Engineer</strong></p>
   <p>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
 
@@ -161,13 +160,16 @@ Data Analyst with a strong foundation in **SQL, Power BI, and Advanced Excel**. 
 
 ---
 
-### 🛠️ Technical Skills
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Data Analysis** | SQL (Joins, CTEs, Window Functions), Excel (Power Query, Pivot Tables) |
-| **Visualization** | Power BI, DAX, Interactive Dashboards, Data Storytelling |
-| **Programming** | Python (Pandas, NumPy - Learning), GitHub |
-| **Soft Skills** | Analytical Thinking, Research Ability, Structured Communication |
+### 🛠️ Technical Stack
+**Data Analysis & Databases** <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+**Visualization & BI** <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" /> 
+<img src="https://img.shields.io/badge/Power_Query-008272?style=for-the-badge&logo=power-query&logoColor=white" />
+
+**Programming & Version Control** <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 ---
 
@@ -176,10 +178,10 @@ Data Analyst with a strong foundation in **SQL, Power BI, and Advanced Excel**. 
 #### **[Bike Sales Supply Chain Analysis](https://github.com/yourlink)**
 * **Problem:** Analyzed 60,000+ records to identify sales bottlenecks.
 * **Solution:** Built a SQL-driven pipeline to clean raw data and visualized KPIs in Power BI.
-* **Result:** Identified key trends in customer behavior that impacted regional revenue by 12%.
+* **Result:** Identified key trends in customer behavior that impacted regional revenue.
 * *Tools: SQL, Power BI, Excel*
 
-#### **[Customer Churn Prediction (Work-in-Progress)](https://github.com/yourlink)**
+#### **[Customer Churn & Behavior Study](https://github.com/yourlink)**
 * **Goal:** Utilizing Python and synthetic datasets to identify high-risk customer segments.
 * **Method:** Applying statistical analysis to uncover patterns in user churn.
 * *Tools: Python, Pandas, Matplotlib*
@@ -187,17 +189,16 @@ Data Analyst with a strong foundation in **SQL, Power BI, and Advanced Excel**. 
 ---
 
 ### 🎓 Education
-* **B.Sc. in Microbiology** | *Graduated 2021*
-* **Self-Directed Data Analytics Path** | *SQL, Power BI, Python Certification*
+* **B.Sc. in Microbiology** | *Class of 2021*
+* **Self-Directed Data Analytics Path** | *Focus: Business Logic & Data Modeling*
 
 ---
 
-### ⚡ Fun Fact & Philosophy
+### ⚡ Fun Fact
 > "I spent years analyzing life through a microscope; now I apply that same level of precision to every row of data I process. I believe that data is only as good as the decisions it enables."
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=555" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord&hide_border=true&title_color=4479A1&icon_color=4479A1" alt="GitHub Stats" />
 </div>
-
