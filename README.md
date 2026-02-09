@@ -26,9 +26,19 @@
   <em>Dedicated to solving real-world business challenges through structured thinking and modern data technologies.</em>
 </p>
 
----
 
----
+<div align="center">
+  <h3>🛠️ Technical Stack</h3>
+
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL_(MS_SQL)-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+<p align="center">
+  <em>Specializing in end-to-end data analysis, from raw SQL queries to interactive BI storytelling.</em>
+</p>
 
 ---
 
