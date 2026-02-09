@@ -1,3 +1,29 @@
+<div align="center">
+  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I'm Subham Adhikari</h1>
+
+  <p><strong>Data Analyst | SQL • Power BI • Python | Aspiring AI Engineer</strong></p>
+  <p><em>Turning messy datasets into actionable business logic with scientific precision.</em></p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/subhamad">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:subhamadhikari348@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://drive.google.com/file/d/1btrX6L9XWtrWFxxpLoUbiKJxNptAeIOf/view?usp=sharing">
+      <img src="https://img.shields.io/badge/Resume-PDF-orange?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" />
+    </a>
+  </p>
+</div>
+
+---
+
+
+
+--
+--
+
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi, I'm Subham Adhikari
 
 **Data Analyst** 📊 | Passionate about **uncovering insights** and solving **business problems** through data 📝| SQL, Excel, and Power BI 💻 
