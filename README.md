@@ -1,31 +1,3 @@
-## 🛠️ Technical Stack
-
-<table width="100%">
-  <tr>
-    <td bgcolor="#f9f9f9">
-      <strong>📊 Data Analysis & Databases</strong><br />
-      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> 
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-      <br /><br />
-      <strong>📈 Visualization & BI</strong><br />
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" /> 
-      <img src="https://img.shields.io/badge/Power_Query-008272?style=for-the-badge&logo=power-query&logoColor=white" />
-      <br /><br />
-      <strong>🐍 Programming & Logic</strong><br />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
-
---
---
-
-
 <div align="center">
   <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I'm Subham Adhikari</h1>
 
@@ -43,6 +15,23 @@
     </a>
   </p>
 </div>
+
+
+
+<div align="center">
+  <h3>🎯 Precision-Driven Data Storytelling</h3>
+</div>
+
+> I am a **Data Analyst** who bridges the gap between scientific inquiry and business logic. 
+> With a background in **Microbiology**, I’ve traded the microscope for **SQL, Power BI, and Python**, applying lab-grade rigor to data cleaning, trend analysis, and product reporting. I don't just find numbers; I find the **"Why"** behind them to drive actionable decisions.
+
+<p align="center">
+  <strong>🔭 Current Focus:</strong> Engineering end-to-end data pipelines and BI dashboards.
+</p>
+
+---
+
+
 
 ---
 
