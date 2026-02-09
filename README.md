@@ -17,13 +17,17 @@
 </div>
 
 
+<div align="center">
+  <h3>🎯 Data Strategy & Precision</h3>
+</div>
 
-> I am a **Data Analyst** who bridges the gap between scientific inquiry and business logic. 
-> With a background in **Microbiology**, I’ve traded the microscope for **SQL, Power BI, and Python**, applying lab-grade rigor to data cleaning, trend analysis, and product reporting. I don't just find numbers; I find the **"Why"** behind them to drive actionable decisions.
+> **Data Analyst** specialized in transforming messy datasets into clean, actionable visual dashboards. Transitioning from a **Microbiology** background, I apply scientific rigor to **SQL, Power BI, and Python** to solve real-world business problems. I focus on data cleaning, trend analysis, and product-focused reporting to help teams make better, data-backed decisions.
 
 <p align="center">
-  <strong>🔭 Current Focus:</strong> Engineering end-to-end data pipelines and BI dashboards.
+  <strong>Currently automating analytics workflows and bridging the gap toward Data & AI Engineering.</strong>
 </p>
+
+---
 
 ---
 
