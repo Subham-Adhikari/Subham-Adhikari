@@ -202,3 +202,59 @@ Data Analyst with a strong foundation in **SQL, Power BI, and Advanced Excel**. 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord&hide_border=true&title_color=4479A1&icon_color=4479A1" alt="GitHub Stats" />
 </div>
+
+
+--
+--
+
+
+<div align="center">
+  <h1>Subham Adhikari</h1>
+  <p><strong>Data Analyst | SQL • Power BI • Python</strong></p>
+  <p><em>Turning messy datasets into actionable business logic.</em></p>
+
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+---
+
+### 📝 Summary
+Data Analyst with a strong foundation in **SQL, Power BI, and Advanced Excel**. Transitioning from a **Microbiology** background, I apply scientific precision to data cleaning, trend analysis, and product reporting. I specialize in building dashboards that don't just look good, but actually help teams make decisions.
+
+---
+
+### 🛠️ Technical Stack
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" /> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+---
+
+### 🚀 Key Projects
+* **Bike Sales Analysis:** SQL-based cleaning of 60k+ records to identify regional revenue trends.
+* **Customer Behavior Study:** Interactive Power BI dashboard focusing on user retention and churn.
+
+---
+
+### 🎓 Education & Background
+* **B.Sc. Microbiology (2021):** Developed structured thinking and attention to detail.
+* **Data Analytics Path:** Focus on Business Intelligence and Data Engineering fundamentals.
+
+---
+
+### ⚡ Fun Fact
+> "I used to analyze life through a microscope; now I apply that same precision to every row of data I process."
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord&hide_border=true&title_color=4479A1&icon_color=4479A1" alt="Subham's Stats" />
+</div>
