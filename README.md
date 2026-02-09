@@ -18,9 +18,7 @@
 
 
 
-<div align="center">
-  <h3>📊 Data Strategy & Insights</h3>
-</div>
+
 
 > **Data Analyst** with a strong foundation in **SQL, Power BI, and Advanced Excel**. I specialize in transforming fragmented, messy datasets into streamlined, visual dashboards that drive business decisions. I have a proven ability to handle complex data cleaning, perform deep-dive trend analysis, and deliver product-focused reporting. As a detail-oriented problem solver, I am currently scaling my capabilities by mastering **Python** to automate workflows and bridge the gap toward **Data & AI Engineering**.
 
