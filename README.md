@@ -49,7 +49,3 @@
 
 ### ⚡ Fun Fact
 > "Instead of finding a relationship with someone special, I’m now finding relationships between tables. I believe that data is only as good as the decisions it enables."
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subham-adhikari&show_icons=true&theme=nord&hide_border=true&title_color=4479A1&icon_color=4479A1" alt="Subham's Stats" />
-</div>
