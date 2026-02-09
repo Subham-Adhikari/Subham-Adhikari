@@ -45,6 +45,44 @@
   <em>Leveraging a robust technical stack to transform raw data into actionable business intelligence.</em>
 </p>
 
+
+
+<div align="center">
+  <h3>💎 Why Work With Me?</h3>
+</div>
+
+<table width="100%">
+  <tr>
+    <td>
+      <strong>🎯 Precision-First Approach</strong><br />
+      I don't just "run queries." I ensure data integrity at every step. My goal is to provide a single source of truth that stakeholders can trust without hesitation.
+    </td>
+    <td>
+      <strong>💡 Business-Centric Logic</strong><br />
+      I bridge the gap between technical rows and business goals. I focus on the "So What?"—turning trends into specific, actionable recommendations.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>🚀 Continuous Evolution</strong><br />
+      While I am an expert in SQL and Power BI, my learning never stops. I am actively integrating Python and AI logic to future-proof my analytics workflow.
+    </td>
+    <td>
+      <strong>🤝 Structured Communicator</strong><br />
+      Data is useless if it isn't understood. I specialize in simplifying complex findings into clear, visual stories that non-technical teams can act on.
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚡ Fun Fact
+> "Instead of finding a relationship with someone special, I’m now finding relationships between tables. I believe that data is only as good as the decisions it enables."
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subham-adhikari&show_icons=true&theme=nord&hide_border=true&title_color=4479A1&icon_color=4479A1" alt="Subham's Stats" />
+</div>
+
 ---
 
 ---
