@@ -17,15 +17,18 @@
 </div>
 
 
+
 <div align="center">
-  <h3>🎯 Data Strategy & Precision</h3>
+  <h3>📊 Data Strategy & Insights</h3>
 </div>
 
-> **Data Analyst** with a strong foundation in **SQL, Power BI, and Advanced Excel**. I specialize in taking messy datasets and turning them into clean, visual dashboards that actually help teams make decisions. Transitioning from a **Microbiology** background, I apply scientific rigor to data cleaning, trend analysis, and product-focused reporting. I am a consistent, detail-oriented problem solver currently building my **Python** skills to automate more complex workflows.
+> **Data Analyst** with a strong foundation in **SQL, Power BI, and Advanced Excel**. I specialize in transforming fragmented, messy datasets into streamlined, visual dashboards that drive business decisions. I have a proven ability to handle complex data cleaning, perform deep-dive trend analysis, and deliver product-focused reporting. As a detail-oriented problem solver, I am currently scaling my capabilities by mastering **Python** to automate workflows and bridge the gap toward **Data & AI Engineering**.
 
 <p align="center">
-  <em>Looking to bring curiosity and structured thinking to solve real business problems and grow alongside the latest data technologies.</em>
+  <em>Dedicated to solving real-world business challenges through structured thinking and modern data technologies.</em>
 </p>
+
+---
 
 ---
 
