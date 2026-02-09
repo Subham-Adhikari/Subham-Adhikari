@@ -1,32 +1,4 @@
 <div align="center">
-  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 𝙷𝚒, 𝙸'𝚖 𝚂𝚞𝚋𝚑𝚊𝚖 𝙰𝚍𝚑𝚒𝚔𝚊𝚛𝚒</h1>
-
-  <p><strong>𝙳𝚊𝚝𝚊 𝙰𝚗𝚊𝚕𝚢𝚜𝚝 | 𝚂𝚚𝚕 • 𝙿𝚘𝚚𝚎𝚛 𝙱𝙸 • 𝙿𝚢𝚝𝚑𝚘𝚗 | 𝙰𝚜𝚙𝚒𝚛𝚒𝚗𝚐 𝙰𝙸 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛</strong></p>
-  <p align="center">
-    <em>"Applying scientific precision to the logic of business data."</em>
-  </p>
-
-  <p align="center">
-    <a href="https://linkedin.com/in/subhamad">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:subhamadhikari348@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://drive.google.com/file/d/1btrX6L9XWtrWFxxpLoUbiKJxNptAeIOf/view?usp=sharing">
-      <img src="https://img.shields.io/badge/Resume-PDF-orange?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
-    </a>
-  </p>
-</div>
-
----
-
-
---
---
-
-
-<div align="center">
   <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I'm Subham Adhikari</h1>
 
   <p><strong>Data Analyst | Precision-Driven Analytics | Data & AI Engineering Enthusiast</strong></p>
