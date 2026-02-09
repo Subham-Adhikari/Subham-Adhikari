@@ -140,5 +140,64 @@ I specialize in taking messy datasets and turning them into clean, visual dashbo
 
 
 
+--
+--
 
+
+<div align="center">
+  <h1>Subham Adhikari</h1>
+  <p><strong>Data Analyst | SQL • Power BI • Python | Aspiring AI Engineer</strong></p>
+  <p>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white" /></a>
+  </p>
+</div>
+
+---
+
+### 📝 Summary
+Data Analyst with a strong foundation in **SQL, Power BI, and Advanced Excel**. I specialize in taking messy datasets and turning them into clean, visual dashboards that help teams make better decisions. Transitioning from a **Microbiology** background, I bring scientific rigor and a structured approach to solving real-world business problems. Currently building **Python** skills to automate analytics workflows and bridge the gap toward Data Engineering.
+
+---
+
+### 🛠️ Technical Skills
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Data Analysis** | SQL (Joins, CTEs, Window Functions), Excel (Power Query, Pivot Tables) |
+| **Visualization** | Power BI, DAX, Interactive Dashboards, Data Storytelling |
+| **Programming** | Python (Pandas, NumPy - Learning), GitHub |
+| **Soft Skills** | Analytical Thinking, Research Ability, Structured Communication |
+
+---
+
+### 🚀 Featured Projects
+
+#### **[Bike Sales Supply Chain Analysis](https://github.com/yourlink)**
+* **Problem:** Analyzed 60,000+ records to identify sales bottlenecks.
+* **Solution:** Built a SQL-driven pipeline to clean raw data and visualized KPIs in Power BI.
+* **Result:** Identified key trends in customer behavior that impacted regional revenue by 12%.
+* *Tools: SQL, Power BI, Excel*
+
+#### **[Customer Churn Prediction (Work-in-Progress)](https://github.com/yourlink)**
+* **Goal:** Utilizing Python and synthetic datasets to identify high-risk customer segments.
+* **Method:** Applying statistical analysis to uncover patterns in user churn.
+* *Tools: Python, Pandas, Matplotlib*
+
+---
+
+### 🎓 Education
+* **B.Sc. in Microbiology** | *Graduated 2021*
+* **Self-Directed Data Analytics Path** | *SQL, Power BI, Python Certification*
+
+---
+
+### ⚡ Fun Fact & Philosophy
+> "I spent years analyzing life through a microscope; now I apply that same level of precision to every row of data I process. I believe that data is only as good as the decisions it enables."
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=555" alt="GitHub Stats" />
+</div>
 
