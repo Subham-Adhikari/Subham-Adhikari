@@ -16,7 +16,7 @@
   </p>
 </div>
 
-> **Data Analyst** proficient in SQL, Power BI, and Advanced Excel with demonstrated ability to transform complex datasets into actionable insights through interactive dashboards and analytics. Skilled in data cleaning, exploratory analysis, DAX measures, and delivering product-focused reporting backed by portfolio projects analyzing $2.33M+ in sales and 60K+ transactions. Detail-oriented problem solver currently expanding technical capabilities in Python to automate workflows and strengthen analytical proficiency for data-driven business decisions.
+> 👋 Hi! I'm a Data Analyst who loves finding stories in data. I work with SQL, Power BI, and Excel to clean messy datasets and build dashboards that actually help make decisions. My portfolio includes projects analyzing $2.33M+ in sales data and 60K+ transactions. Currently leveling up my skills with Python. Feel free to explore my work and connect!
 
 <p align="center">
   <em>Dedicated to solving real-world business challenges through structured thinking and modern data technologies.</em>
