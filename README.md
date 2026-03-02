@@ -16,7 +16,7 @@
   </p>
 </div>
 
-> **Data Analyst** who loves finding stories in data. I work with SQL, Power BI, and Excel to clean messy datasets and build dashboards that actually help make decisions. Some of My portfolio projects includes analyzing $2.33M+ in sales data and 60K+ transactions. Currently leveling up my skills with Python. Feel free to explore my work and connect!
+> **Data Analyst** who loves finding **stories in data**. I work with **SQ**L, **Power BI**, and **Excel** to clean messy datasets and build dashboards that actually **help make decisions**. My portfolio includes projects analyzing **$2.33M+ in sales data** and **60K+ transactions**. Currently leveling up my skills with **Python**. Feel free to explore my work and **connect!**
 
 <p align="center">
   <em>Dedicated to solving real-world business challenges through structured thinking and modern data technologies.</em>
