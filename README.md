@@ -16,7 +16,7 @@
   </p>
 </div>
 
-> **Data Analyst** who loves finding **stories in data**. I work with **SQ**L, **Power BI**, and **Excel** to clean messy datasets and build dashboards that actually **help make decisions**. My portfolio includes projects analyzing **$2.33M+ in sales data** and **60K+ transactions**. Currently leveling up my skills with **Python**. Feel free to explore my work and **connect!**
+> Not certified. Not trained. Just someone who went all-in on data — built real projects, learned from real problems, and keeps going. **SQL**, **Power BI**, **Advanced Excel** — done. **Python**, **PySpark**, **Databricks** — in progress. The work speaks for itself. **Explore and connect**.
 
 <p align="center">
   <em>Dedicated to solving real-world business challenges through structured thinking and modern data technologies.</em>
