@@ -18,7 +18,7 @@
     </a>
   </p>
 
-  <p><em>Not certified. Not trained. Just someone who went all-in on data — built real projects, learned from real problems, and keeps going.<br><strong>SQL</strong>, <strong>Power BI</strong>, <strong>Advanced Excel</strong> — done. &nbsp; <strong>Python</strong>, <strong>PySpark</strong>, <strong>Databricks</strong> — in progress.<br>The work speaks for itself. <strong>Explore and connect.</strong></em></p>
+  <p><em>Not certified. Not trained. Just someone who went all-in on data — built real projects, learned from real problems, and keeps going.<br><strong>SQL</strong>, <strong>Python</strong>, <strong>ETL</strong>, <strong>Data Warehouse,</strong> <strong>Power BI</strong> — done. &nbsp; <strong>Azure</strong>, <strong>PySpark</strong>, <strong>Databricks</strong> — in progress.<br>The work speaks for itself. <strong>Explore and connect.</strong></em></p>
 
   <p><em>Dedicated to solving real-world business challenges through structured thinking and modern data technologies.</em></p>
 
